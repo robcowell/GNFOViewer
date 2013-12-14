@@ -1,0 +1,3 @@
+* Detect URLs and email addresses in files, highlight them and make them clickable
+* ANSI Colour Code Support
+* Automatic optimum window sizing based on the file

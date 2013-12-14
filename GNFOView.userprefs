@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<UserCombinePreferences filename="/home/niceguyuk/code/dotnet/GNFOView/GNFOView.mds">
+  <Files>
+    <File filename="Welcome" />
+    <File filename="./MainWindow.cs" />
+  </Files>
+  <Views>
+    <ViewMemento Id="MonoDevelop.Ide.Gui.Pads.ProjectPad">
+      <TreeView>
+        <Node expanded="True">
+          <Node name="GNFOView" expanded="True">
+            <Node name="UserInterface" expanded="True">
+              <Node name="MainWindow" expanded="True" />
+            </Node>
+            <Node name="MainWindow.cs" expanded="False" selected="True" />
+          </Node>
+        </Node>
+      </TreeView>
+    </ViewMemento>
+    <ViewMemento Id="MonoDevelop.Ide.Gui.Pads.ClassPad">
+      <TreeView>
+        <Node expanded="True" selected="True" />
+      </TreeView>
+    </ViewMemento>
+  </Views>
+  <Properties>
+    <Properties>
+      <Property key="ActiveConfiguration" value="Debug" />
+      <Property key="ActiveWindow" value="/home/niceguyuk/code/dotnet/GNFOView/MainWindow.cs" />
+    </Properties>
+  </Properties>
+</UserCombinePreferences>

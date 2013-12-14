@@ -1,0 +1,20 @@
+GNFOView
+--------
+
+GNFOView is a simple GTK application for viewing NFO files
+
+See http://en.wikipedia.org/wiki/.nfo
+
+Installation
+------------
+This program requires Mono to run.  It is also useful if you have the 
+Lucida Console font installed.  You can obtain this from 
+http://home.online.no/~aageli/luconP.ttf
+
+Compilation
+-----------
+This program was written under the MonoDevelop environment and this is 
+the most efficient way of compiling it.  It is possible to compile using 
+the command line however.  I've included the MonoDevelop solution and 
+project files to make life easier, although there may be some embedded 
+paths in there that I'm too lazy to tidy up!
